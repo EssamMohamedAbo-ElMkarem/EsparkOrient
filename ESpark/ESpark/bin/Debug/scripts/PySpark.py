@@ -29,7 +29,7 @@ def set_response(response):
 
 def main_func():
     try:
-        client = wolframalpha.Client("UUPAH6-LX8LWG987Y")
+        client = wolframalpha.Client("ID") #id from your account on wolframalpha
         res = client.query(get_question())
         #image_url = json.json_result['queryresult']['pods'][0]['subpods'][0]['imagesource']  not working yet
 

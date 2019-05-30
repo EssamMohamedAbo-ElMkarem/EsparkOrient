@@ -1,0 +1,12 @@
+C:\Users\elhussein\source\repos\ESpark\ESpark\bin\Debug\ESpark.exe.config
+C:\Users\elhussein\source\repos\ESpark\ESpark\bin\Debug\ESpark.exe
+C:\Users\elhussein\source\repos\ESpark\ESpark\bin\Debug\ESpark.pdb
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.EsparkMainScreen.resources
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.Properties.Resources.resources
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.csproj.GenerateResource.cache
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.csproj.CoreCompileInputs.cache
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.exe
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.pdb
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.AnswerScreen.resources
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.Mail.resources
+C:\Users\elhussein\source\repos\ESpark\ESpark\obj\Debug\ESpark.csprojAssemblyReference.cache
